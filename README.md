@@ -141,9 +141,9 @@ Open the index.html file
 
 
 
-- [ ] add forms
-- [ ] add responsiveness
-- [ ] add video
+-  add forms
+-  add responsiveness
+-  add video
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
